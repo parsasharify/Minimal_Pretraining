@@ -68,8 +68,8 @@ The following table highlights the performance of the pretrained model compared 
 | Resnet-34 (with Pretraining) | BRACS             | 79%     |
 | Resnet-34    | Breakhis-400x  | 85.3%     |
 | Resnet-34 (with Pretraining) | Breakhis-400x             | 94%     |
-| VGG-19   | BRACS  | 75%     |
-| Resnet-34 (with Pretraining) | BRACS             | 94%     |
+| VGG-19   | Breakhis-400x  | 75%     |
+| Resnet-34 (with Pretraining) | Breakhis-400x             | 86.2%     |
 ---
 
 ### Key Takeaways
